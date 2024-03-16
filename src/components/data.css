@@ -1,0 +1,11 @@
+.table-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.react-data-table-component {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
